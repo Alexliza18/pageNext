@@ -1,7 +1,6 @@
 "use client";
 
 import React from "react";
-import path from "path";
 import Link from "next/link";
 import style from "./ActiveLink.module.css";
 import { usePathname } from "next/navigation";
